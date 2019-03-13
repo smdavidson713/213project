@@ -1,0 +1,48 @@
+Montgomery, Alabama, 36101
+Juneau, Alaska, 99801
+Phoenix Arizona, 85001
+Little Rock, Arkansas, 72201
+Sacramento, California, 94203
+Denver, Colorado, 80201
+Hartford, Connecticut, 06101
+Dover, Delaware, 19901
+Tallahassee, Florida, 32301
+Atlanta, Georgia, 30301
+Honolulu, Hawaii, 96801
+Boise, Idaho, 83701
+Springfield, Illinois, 62701
+Des Moines, Iowa, 50301
+Topeka, Kansas, 66601
+Frankfort, Kentucky, 40601
+Baton Rouge, Louisiana, 70801
+Augusta, Maine, 04330
+Annapolis, Maryland, 04330
+Boston, Masssachusetts, 02108
+Lansing, Michigan, 48901
+St. Paul, Minnesota, 55101
+Jackson, Mississippi, 39201
+Jefferson City, Missouri, 65101
+Helena, Montana, 59601
+Lincoln, Nebraska, 68501
+Carson City, Nevada, 89701
+Concord, New Hampshire, 03301
+Trenton, New Jersey, 08601
+Santa Fe, New Mexico, 87501
+Albany, New York, 12201
+Raleigh, North Carolina, 27601
+Bismarck, North Dakota, 58501
+Columbus, Ohio, 43201
+Oklahoma, Oklahoma City, 73101
+Salam, Orgeon, 97301
+Pennsylvania, Harrisburg, 17101
+Providence, Rhode Island, 02901
+Columbia, South Carolina, 29201
+Pierre, South Dakota, 57501
+Austin, Texas, 73301
+Salt Lake City, Utah, 84101
+Montpelier, Vermont, 05601
+Richmond, Virginia. 23218
+Olympia, Washington, 98501
+Charleston, West Virginia, 25301
+Madison, Wisconsin, 53701
+Cheyenna, Wyoming, 82001
